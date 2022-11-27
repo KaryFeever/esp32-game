@@ -7,9 +7,9 @@
 
 /// @brief main function of the program
 void app_main() {
-	// initialise display
+	// initialize display
 	init_display();
-	// initialise joystick
+	// initialize joystick
 	init_joystick();
 	// start the game
 	start_game();

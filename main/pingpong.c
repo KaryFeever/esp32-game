@@ -1,7 +1,7 @@
 #include "pingpong.h"
 
 
-/// @brief Initialise game objects 
+/// @brief initialize game objects 
 void init_game_objects() {
     pong.field.x0 = 1;
     pong.field.x1 = 126;

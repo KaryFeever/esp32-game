@@ -73,7 +73,7 @@ void update_ball(Ball ball) {
 }
 
 
-/// @brief Initialise display
+/// @brief initialize display
 void init_display() {
     i2c_master_init(&display, 
                     CONFIG_SDA_GPIO,
